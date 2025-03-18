@@ -1,0 +1,14 @@
+/home/bruno-fellip/Documentos/C#/MeuProjeto/bin/Debug/net8.0/MeuProjeto
+/home/bruno-fellip/Documentos/C#/MeuProjeto/bin/Debug/net8.0/MeuProjeto.deps.json
+/home/bruno-fellip/Documentos/C#/MeuProjeto/bin/Debug/net8.0/MeuProjeto.runtimeconfig.json
+/home/bruno-fellip/Documentos/C#/MeuProjeto/bin/Debug/net8.0/MeuProjeto.dll
+/home/bruno-fellip/Documentos/C#/MeuProjeto/bin/Debug/net8.0/MeuProjeto.pdb
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfo.cs
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.dll
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/refint/MeuProjeto.dll
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.pdb
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.genruntimeconfig.cache
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/ref/MeuProjeto.dll
