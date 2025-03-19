@@ -12,3 +12,4 @@
 /home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.pdb
 /home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.genruntimeconfig.cache
 /home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/ref/MeuProjeto.dll
+/home/bruno-fellip/Documentos/C#/MeuProjeto/obj/Debug/net8.0/MeuProjeto.sourcelink.json

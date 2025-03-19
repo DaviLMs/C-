@@ -56,6 +56,12 @@ class Primitivos
         // Chamada ao método 'apresentacao()' para exibir uma mensagem personalizada
         string frase = apresentacao("João", 20, "programador");
         Console.WriteLine(frase);
+
+        Pessoa usuario = new Pessoa();
+        usuario.nome = "Davi";
+        usuario.falar();
+
+
     }
 
     // Método simples que exibe a palavra "Teste"
@@ -76,6 +82,15 @@ class Primitivos
     {
         string frase = "Olá, meu nome é " + none + ", tenho " + idade + " anos e sou " + profissao;
         return frase;
+    }
+    class Pessoa
+    {
+        public string nome;
+
+        public void falar()
+        {
+            Console.WriteLine("Olá " + nome);
+        }
     }
 
     // Método show() que exibe "show"
